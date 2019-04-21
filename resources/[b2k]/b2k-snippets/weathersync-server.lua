@@ -6,7 +6,7 @@ local SmartWeatherEnabled = false -- Should this script be enabled?
 local adminOnlyPlugin = true     -- Should chat commands be limited to the `admins` list?
 
 local admins = {
-	"steam:1100001061b88e7" -- bitou2k
+	"steam:11000010226faf8" -- Dilu
 }
 
 -- Removed Neutral from possible weather options, had issue with it sometimes turning the sky green.

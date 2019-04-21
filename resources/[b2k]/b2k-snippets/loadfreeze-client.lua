@@ -19,9 +19,9 @@ function drawscaleform(scaleform)
 		Citizen.Wait(0)
 	end
 	PushScaleformMovieFunction(scaleform, "SET_YACHT_NAME")
-	PushScaleformMovieFunctionParameterString("~r~B2k Roleplay")
+	PushScaleformMovieFunctionParameterString("~r~Revolution Servidores RP")
 	PushScaleformMovieFunctionParameterBool(true)
-	PushScaleformMovieFunctionParameterString("~y~bitou2k.com/discord")
+	PushScaleformMovieFunctionParameterString("~y~discord.gg/23yEP8P")
 	PopScaleformMovieFunctionVoid()
 	
 	DrawScaleformMovieFullscreen(scaleform, 255, 255, 255, 255, 0)

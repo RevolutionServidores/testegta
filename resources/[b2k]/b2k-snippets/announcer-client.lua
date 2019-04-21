@@ -13,7 +13,7 @@ m.suffix = '^6.'
 -- You can make as many messages as you want.
 -- You can use ^0-^9 in your messages to change text color.
 m.messages = {   
-    '^7Acesse nosso discord e fique por dentro de todas novidades http://bitou2k.com/discord',
+    '^7Acesse nosso discord e fique por dentro de todas novidades https://discord.gg/23yEP8P',
     '^7Extremamente proibido VDM e RDM.',
 	'^7Está extremamente proibido cometer crimes Uniformizados (usando skins dos trabalhos).',
     '^7Este servidor de Roleplay está em Desenvolvimento. Qualquer bug reporte a Staff.',

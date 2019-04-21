@@ -16,7 +16,7 @@ AddEventHandler("playerSpawned",function() -- delay state recording
 
   SetDiscordAppId(appid)
   SetDiscordRichPresenceAsset(asset)
-  SetRichPresence("Carregando B2K RP 1.2...")
+  SetRichPresence("Carregando RVL RP 1.2...")
   
   Citizen.CreateThread(function()
     Citizen.Wait(30000)

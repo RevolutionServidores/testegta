@@ -3,6 +3,6 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-  AddTextEntry('FE_THDR_GTAO', 'B2K Roleplay')
-  AddTextEntry('PM_PANE_LEAVE', 'Sair do B2K Roleplay')
+  AddTextEntry('FE_THDR_GTAO', 'Revolution RP')
+  AddTextEntry('PM_PANE_LEAVE', 'Sair do Revolution Roleplay')
 end)

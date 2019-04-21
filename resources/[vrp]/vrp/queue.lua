@@ -3,7 +3,7 @@ local Config = {}
 ----------------------------------------------------------------------------------------------------------------------
 -- Priority list can be any identifier. (hex steamid, steamid32, ip) Integer = power over other priorities
 Config.Priority = {
-    ["steam:1100001061b88e7"] = 100, -- Bitou2k
+    ["steam:11000010226faf8"] = 100, -- Dilu
 }
 
 Config.RequireSteam = true

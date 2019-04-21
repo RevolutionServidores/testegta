@@ -1,7 +1,7 @@
 -- CONFIG --
 
 -- The watermark text --
-servername = "B2K RP ~w~- Oficial 1.2"
+servername = "RVL RP ~w~- Oficial 1.2"
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001

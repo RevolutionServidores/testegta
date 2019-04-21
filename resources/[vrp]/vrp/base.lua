@@ -469,10 +469,10 @@ AddEventHandler("queue:playerConnecting",function(source, ids, name, setKickReas
             else
               print("[B2K] "..name.." ("..vRP.getPlayerEndpoint(source)..") rejected: not whitelisted (user_id = "..user_id..")")
       				for i = 1, 2 do
-      				  deferrals.update("[B2K] Para entrar, acesse nosso Discord: bitou2k.com/discord e solicite liberação do seu ID: "..user_id.."")
+      				  deferrals.update("[B2K] Para entrar, acesse nosso Discord: discord.gg/23yEP8P e solicite liberação do seu ID: "..user_id.."")
                 Citizen.Wait(500)
       				end
-              deferrals.done("[B2K] Para entrar, acesse nosso Discord: bitou2k.com/discord e solicite liberação do seu ID: "..user_id.."")
+              deferrals.done("[B2K] Para entrar, acesse nosso Discord: discord.gg/23yEP8P e solicite liberação do seu ID: "..user_id.."")
       				TriggerEvent("queue:playerConnectingRemoveQueues", ids)
             end
           end)
